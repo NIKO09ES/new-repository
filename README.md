@@ -8,7 +8,7 @@ A website that offers my professional skills.
 * CSS
 
 ## WEbsite
-https://niko09es.github.io/Lernantion/
+https://niko09es.github.io/new-repository/
 
 ## Overview activities
 
