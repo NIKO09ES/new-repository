@@ -78,7 +78,7 @@ header nav ul li a {
 .about {
     color: var(--primary-color);
     font-size: 35px;
-    padding: 10px 10px 0 100px;
+    padding: 10px 10px 10px 100px;
 
 }
 .about h2 {

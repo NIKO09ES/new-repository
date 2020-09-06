@@ -16,7 +16,8 @@ https://niko09es.github.io/new-repository/
 
 1. First, I created the index.HTML file.
 2. Then, I created the sections of my portafolio.
-3. After, that, I created the style.CSS file.
+3. After, that, I created the styl
+e.CSS file.
 4. Next, section by section inserted the style for each item.
 5. Fynally, I create the media screen to 980px, 768px and 575px. 
 
