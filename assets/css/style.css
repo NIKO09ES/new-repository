@@ -142,7 +142,7 @@ header nav ul li a {
 .item-1 {
     grid-column: 2/ span 12;
     grid-row: 1/ span 6;
-    background-image: url("../imagenes/Pet.JPG");
+    background-image: url("../imagenes/gitDevJob.PNG");
     backface-visibility: initial;
 }
 .item-2 {
@@ -158,7 +158,7 @@ header nav ul li a {
 .item-4 {
     grid-column: 2/ span 6;
     grid-row: 7/ span 3;
-    background-image: url("../imagenes/Horizeon.JPG");
+    background-image: url("../imagenes/Pet.JPG");
 }
 .item-5 {
     grid-column: 8/ span 6;
