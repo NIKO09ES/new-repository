@@ -1,6 +1,6 @@
 # Portafolio
 
-![Screen Shot of Homepage](./assests/imagenes/Portafolio.PNG)
+![Screen Shot of Homepage](./assets/imagenes/Portafolio.PNG)
 
 # Purpose
 A website that offers my professional skills.
