@@ -1,6 +1,6 @@
 # Portafolio
 
-![portafolio](https://user-images.githubusercontent.com/64040975/87259613-343dc280-c472-11ea-9409-c8e27e58ad6f.JPG)
+![Screen Shot of Homepage](./assests/imagenes/Portafolio.JPG)
 
 # Purpose
 A website that offers my professional skills.
